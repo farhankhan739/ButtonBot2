@@ -1,0 +1,14 @@
+{
+    "bot_username": "AnimeStr_1bot",
+    "post_channel_id": -1004441778855,
+
+    "episode_template": "🎬 {anime}\n\n📺 Episode {episode}\n\nSelect your preferred quality:",
+
+    "pin_generated_messages": false,
+
+    "extra_buttons": [],
+
+    "jjk_ep1480": {"message_id": 311},
+    "jjk_ep1720": {"message_id": 312},
+    "jjk_ep11080": {"message_id": 313}
+}
